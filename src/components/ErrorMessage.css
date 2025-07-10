@@ -1,0 +1,49 @@
+.error-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 60px 20px;
+  min-height: 400px;
+  color: #6b7280;
+}
+
+.error-icon {
+  color: #ef4444;
+  margin-bottom: 16px;
+  opacity: 0.8;
+}
+
+.error-container h3 {
+  margin: 0 0 8px 0;
+  font-size: 24px;
+  font-weight: 600;
+  color: #374151;
+}
+
+.error-container p {
+  margin: 0 0 24px 0;
+  font-size: 16px;
+  max-width: 400px;
+  line-height: 1.5;
+}
+
+.retry-button {
+  background: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.2s ease;
+}
+
+.retry-button:hover {
+  background: #2563eb;
+}
