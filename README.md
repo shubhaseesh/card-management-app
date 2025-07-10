@@ -18,7 +18,7 @@ A modern, responsive card management application built with React, TypeScript, a
 
 ## 🛠️ Technologies Used
 
-- **Frontend Framework**: React 18 with TypeScript
+- **Frontend Framework**: React 19 with TypeScript
 - **Build Tool**: Vite
 - **Animations**: Framer Motion
 - **Icons**: Lucide React
